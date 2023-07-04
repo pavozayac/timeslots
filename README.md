@@ -1,7 +1,7 @@
-### Timeslots - effortlessly create timetables
+# Timeslots - effortlessly create timetables
 The app is a work in progress. The idea behind it is to use React and Rust in tandem with Tauri to create a seamless desktop experience with a really fast backend, which will handle the algorithms. 
 
-# Roadmap
+## Roadmap
 - Manual creation of timetables, user-friendly drag and drop
 - Assigning people to tasks
 - Adding time blocks when people are unavailable
